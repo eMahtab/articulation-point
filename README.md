@@ -1,2 +1,2 @@
-# articulation-point
-Articulation Point
+# Articulation Point
+
