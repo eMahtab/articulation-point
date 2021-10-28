@@ -1,6 +1,6 @@
 # Articulation Point
 
-A vertex is said to be an articulation point in a graph if removal of the vertex and its associated edges disconnects the graph. So, the removal of articulation points increases the number of connected components in a graph.
+A vertex is said to be an articulation point in a graph, if removal of the vertex and its associated edges disconnects the original graph into mltiple components. So, the removal of articulation points increases the number of connected components in a graph.
 
 Articulation points are sometimes called cut vertices.
 
